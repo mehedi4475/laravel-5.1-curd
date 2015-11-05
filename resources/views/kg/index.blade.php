@@ -1,0 +1,9 @@
+@extends('kg/template/main')
+
+@section('title')
+    Welcome to Krishibid Group
+@stop
+
+@section('content')
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae fuga, saepe quaerat tempore in omnis tempora odio blanditiis nihil rem officia necessitatibus dicta iusto assumenda vero similique est, veritatis id dolore, praesentium voluptatum officiis. Suscipit modi dolor animi sunt consequatur reiciendis. Eos iste deserunt maiores, ducimus, at pariatur blanditiis ullam, repudiandae ad, tempore possimus. Assumenda dolor veritatis aut aliquid eius soluta doloremque delectus labore id ad quasi ullam eveniet ab, officiis sint porro nulla in alias voluptatum ipsa! Possimus delectus voluptate perferendis, distinctio quae quidem officiis earum harum doloremque repellat sint cumque dolorem reprehenderit atque dolore et maxime aut dicta quam, eum repellendus. Eaque quam voluptate totam facilis pariatur quos maiores, optio incidunt deleniti veniam ab, ut quasi. At laboriosam natus vitae amet cum, dolore dicta, maxime non dolores deleniti eius. Fugiat sint, excepturi vel. Magnam accusantium, deleniti labore! Mollitia quam dignissimos, quasi magnam numquam, velit, repudiandae non est, porro consectetur provident dolorem quidem sunt illo minus tenetur nemo praesentium eveniet sequi! Sint sunt facilis dolores ex iure, eius accusantium odit, distinctio ullam nesciunt nobis, architecto quidem similique, recusandae minus ipsam laboriosam! Minima optio, aspernatur consequuntur dignissimos exercitationem cum cumque quas totam odio ut, asperiores ipsa dolores, doloribus a possimus?
+@stop
